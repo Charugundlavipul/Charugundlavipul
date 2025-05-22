@@ -3,10 +3,10 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"          # every day at 00:00 UTC
-  workflow_dispatch:              # manual trigger
+    - cron: "0 0 * * *"          # every day @ 00:00 UTC
+  workflow_dispatch:              # manual run button
 
-# 👇 give this job permission to push to the repo
+# → allow this workflow to push to the repo
 permissions:
   contents: write
 
@@ -15,20 +15,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣  Create the SVG(s)
+      # 1️⃣  Pull your contribution graph and create the SVG
       - name: Generate snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3              # ← 'svg-only' avoids GIF tooling
         with:
-          github_user_name: ${{ github.repository_owner }}      # -> charugundlavipul
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg             # the file we’ll publish
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      # 2️⃣  Commit & push the dist/ folder to branch "output"
-      - name: Push to output branch
+      # 2️⃣  Commit the dist/ folder to the branch "output"
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false
+          target_branch: output                   # keeps generated files off main
+          build_dir: dist                        # this *must* exist
+          keep_history: false                    # one commit instead of infinite history
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
