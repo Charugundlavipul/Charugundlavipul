@@ -41,7 +41,6 @@
 - **AWS Certified Developer – Associate (DVA-C02)**
 - **Microsoft Essentials in Generative AI**
 - 🥈 **2nd Place – UB AI Hackathon 2025** (insurance-policy recommender)
-- Multiple academic A+ grades in Algorithms, Security, & Data-Intensive Computing.
 
 ---
 
