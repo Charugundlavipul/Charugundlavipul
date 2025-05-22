@@ -4,7 +4,7 @@
 ### About Me
 
 - 🚀 **Senior Software Development Engineer @ PilProgram**  
-  Leading a six-member squad that shipped **Parliamade** (12 k+ downloads, 500+ bookings in the first month).
+  Part of a six-member squad that shipped **Parliamade** (12 k+ downloads, 500+ bookings in the first month).
 - 🎓 **M.S. candidate (AI & ML)** — University at Buffalo.  
   Researching scalable LLM workflows and recommendation systems.
 - 💡 **Builder at heart** — from high-throughput microservices to human-centric UX.
@@ -51,5 +51,26 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://vipulcharugundla.netlify.app/)
 
 ---
+
+---
+
+## 🎮 Fun&nbsp;Zone&nbsp;–&nbsp;Because&nbsp;Work&nbsp;≠&nbsp;Boring
+
+<!-- 1️⃣  Animated “typing” banner  -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=60&lines=Vipul+Charugundla"
+    alt="Typing SVG saying Vipul Charugundla"
+  />
+</p>
+
+<!-- 2️⃣  GitHub-contribution Snake (auto-updates daily) -->
+<p align="center">
+  <img
+    src="https://github.com/Charugundlavipul/Charugundlavipul/blob/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
