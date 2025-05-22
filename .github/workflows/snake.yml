@@ -1,0 +1,35 @@
+# .github/workflows/snake.yml
+name: Generate contribution snake
+
+# ─────────── triggers ───────────
+on:
+  schedule:
+    - cron: "0 0 * * *"      # every day at 00:00 UTC
+  workflow_dispatch:         # manual run button
+
+# 👇 NEW — allow this workflow to push to your repo
+permissions:
+  contents: write
+
+# ─────────── job ───────────
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣  Make the SVG
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg   # ← current snk syntax
+
+      # 2️⃣  Commit & push it to the "output" branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}               # must be present
