@@ -63,13 +63,17 @@
   />
 </p>
 
-<!-- 2️⃣  GitHub-contribution Snake (auto-updates daily) -->
+<!-- Fun Zone – snake with dark-mode support -->
 <p align="center">
-  <img
-    src="https://github.com/Charugundlavipul/Charugundlavipul/blob/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <!-- GitHub adds the prefers-color-scheme media query to READMEs -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/charugundlavipul/charugundlavipul/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/charugundlavipul/charugundlavipul/output/github-snake.svg"
+         alt="Snake animation" />
+  </picture>
 </p>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
