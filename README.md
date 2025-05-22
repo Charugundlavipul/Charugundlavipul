@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Vipul%20Charugundla!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20AI%20Builder%20%26%20UX%20Designer&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%2C%20I%27m%20Vipul%20Charugundla%21&fontSize=40&fontAlign=50&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20AI%20Builder%20%26%20UX%20Designer&descAlign=50&descAlignY=60)
 
 ### About Me
 
