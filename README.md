@@ -1,56 +1,54 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Vipul%20Charugundla!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20UX%20Designer&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Vipul%20Charugundla!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20AI%20Builder%20%26%20UX%20Designer&descAlign=50&descAlignY=60)
 
 ### About Me
 
-- 🔧 **Software Development Engineer** | Passionate about building scalable, high-performance applications.
-- 🌐 **Graduate Student** at the University at Buffalo, specializing in **AI & Machine Learning**.
-- 🎯 Experienced in **Java Full Stack Development**, **MERN Stack**, and **UX Design**.
-- 📊 Open to collaborating on AI projects, Large Language Models (LLMs), and innovative systems design.
+- 🚀 **Senior Software Development Engineer @ PilProgram**  
+  Leading a six-member squad that shipped **Parliamade** (12 k+ downloads, 500+ bookings in the first month).
+- 🎓 **M.S. candidate (AI & ML)** — University at Buffalo.  
+  Researching scalable LLM workflows and recommendation systems.
+- 💡 **Builder at heart** — from high-throughput microservices to human-centric UX.
+- 🏆 **AWS Certified (SAA & Developer)** | **Microsoft Generative AI Essentials**.
+- 🤝 Always up for collabs on LLM tooling, data-intensive back-ends, or slick Flutter/React front-ends.
 
 ---
 
-### Skills
+### Tech Stack
 
-**Languages**: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+| **Languages** | **Frameworks / Libraries** | **Databases & Caches** | **Dev & Ops** |
+| ------------- | -------------------------- | ---------------------- | ------------- |
+| Java&nbsp;• Python&nbsp;• JavaScript&nbsp;• TypeScript&nbsp;• Dart&nbsp;• C&nbsp;• PHP | Spring Boot • React.js • Node.js/Express • Flutter • Redux • Tailwind CSS | PostgreSQL • MySQL • TiDB • MongoDB • DynamoDB • Redis • Firebase • GraphQL | Docker • Kubernetes • GitHub Actions • Jenkins • Kafka • RabbitMQ • Grafana • Cypress • Jira |
 
-**Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Technologies**: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%23323131.svg?style=for-the-badge&logo=cypress&logoColor=white)
+&nbsp;
 
 ---
 
 ### Featured Projects
 
-#### **[Farmart](https://github.com/Charugundlavipul)**
-A marketplace platform for farmers to sell their products online. Developed using React, Node.js, and MongoDB. 
-- 🎨 **UI/UX Design:** Intuitive and user-friendly.
-- ⚡ **Technologies:** MERN Stack, Bootstrap.
-
-#### **[Life Drop](https://github.com/Charugundlavipul)**
-An app designed to connect blood donors with recipients. Built using Flutter and Firebase.
-- 🚀 **Impact:** Streamlined blood donation processes.
-- 🌐 **Scalability:** Real-time updates using Firebase.
-
-#### **[SNU ARC](https://github.com/Charugundlavipul)**
-A university archival system to manage academic resources efficiently.
-- ⚙ **Backend:** Java Spring Boot.
-- 🔧 **Database:** PostgreSQL.
+| Project | What it does | Tech / Impact |
+| ------- | ------------ | ------------- |
+| **Parliamade** | End-to-end booking & community app for public-speaking clubs — 12 k+ downloads, 500+ bookings / 30 days. | MERN • Node.js • Google Recommendations AI |
+| **Job Genie** | AI-driven platform that parses job specs and ranks the **top 5** matches, cutting recruiter sourcing time by **80 %**. | React • FastAPI • TensorFlow • LLM |
+| **CheckBot-Alpha** | Competitive checkers bot with Minimax (depth 3) — **85 %** win rate over 100 matches. | Python • pygame |
+| **SNU-ARC** | University portal (gate passes, pay-later, space booking) serving **5 k+** students. | Spring Boot • PostgreSQL |
+| **Life Drop** | Real-time Flutter app connecting blood donors & recipients nationwide. | Flutter • Firebase |
 
 ---
 
-### Achievements & Certifications
+### Certifications & Recognition
 
-- 🏆 **Machine Learning Certification** - Microsoft Verzeo
-- 🔬 **Python and JavaScript Certifications** - University of Michigan
-- 🎓 Graduate with **Data Science & Big Data Analytics** specialization.
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **AWS Certified Developer – Associate (DVA-C02)**
+- **Microsoft Essentials in Generative AI**
+- 🥈 **2nd Place – UB AI Hackathon 2025** (insurance-policy recommender)
+- Multiple academic A+ grades in Algorithms, Security, & Data-Intensive Computing.
 
 ---
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charugundla-vipul-3911561aa/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Charugundlavipul)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://vipulcharugundla.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charugundla-vipul-3911561aa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Charugundlavipul)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://vipulcharugundla.netlify.app/)
 
 ---
 
