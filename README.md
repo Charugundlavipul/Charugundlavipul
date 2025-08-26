@@ -5,9 +5,9 @@
 
 - 🚀 **Senior Software Development Engineer @ PilProgram**  
   Part of a six-member squad that shipped **Parliamade** (12 k+ downloads, 500+ bookings in the first month).
-- 🎓 **M.S. candidate (AI & ML)** — University at Buffalo.  
+- 🎓 **M.S. candidate (AI & ML)** - University at Buffalo.  
   Researching scalable LLM workflows and recommendation systems.
-- 💡 **Builder at heart** — from high-throughput microservices to human-centric UX.
+- 💡 **Builder at heart** from high-throughput microservices to human-centric UX.
 - 🏆 **AWS Certified (SAA & Developer)** | **Microsoft Generative AI Essentials**.
 - 🤝 Always up for collabs on LLM tooling, data-intensive back-ends, or slick Flutter/React front-ends.
 
